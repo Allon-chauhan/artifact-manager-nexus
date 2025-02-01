@@ -1,4 +1,4 @@
-# 🚀 Module 6 - Artifact Repository Manager with Nexus
+# 🚀 Artifact Repository Manager with Nexus
 
 This repository contains data and information for setting up and managing an **Artifact Repository** using **Nexus** on a cloud server.
 
