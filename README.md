@@ -25,6 +25,18 @@ Before proceeding, ensure you have the following:
 
 ---
 
+### ⚙️ Setting Up and Configuring a Server on DigitalOcean
+1. Create a small, cost-effective droplet in your nearest region.
+2. Choose **SSH** as the authentication method.
+3. Create a new SSH key, copy the public key from your local machine, and save the changes.
+4. Once the droplet is ready, note down the **public IPv4** address.
+5. Connect to the server via terminal:
+   ```bash
+   ssh root@<droplet-ipv4>
+   ```
+   
+---
+
 ## 📌 Installing & Configuring Nexus on a Cloud Server
 
 1. **Log in as a `root` user** and navigate to the `/opt` directory.
